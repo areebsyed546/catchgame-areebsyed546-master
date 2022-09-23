@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+    ],
+    "workbench.preferredDarkColorTheme": "Default Dark+",
+    "workbench.colorTheme": "Solarized Dark"
+}
