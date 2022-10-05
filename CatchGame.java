@@ -33,7 +33,7 @@ public class CatchGame {
         this.delek1 = new Dalek(2, 5);
         // setting the position of dalek 2
         this.delek2 = new Dalek(4, 1);
-        // setting the position of dalek 3
+        // setting the position of dalek 3 
         this.delek3 = new Dalek(1, 10);
 
     }
